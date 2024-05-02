@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e3c6ac1-adc5-469f-a08e-01e694217e56" name="Changes" comment="2nd commit app.prop">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/java/com/kitaab/kitaab/KitaabApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/java/com/kitaab/kitaab/controller/kitaabController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/java/com/kitaab/kitaab/entity/Kitaab.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/java/com/kitaab/kitaab/impl/kitaabserviceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/java/com/kitaab/kitaab/repository/kitaabRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/java/com/kitaab/kitaab/service/kitaabservice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/bin/src/test/java/com/kitaab/kitaab/KitaabApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kitaab/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/com/kitaab/kitaab/KitaabApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/com/kitaab/kitaab/controller/kitaabController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/com/kitaab/kitaab/entity/Kitaab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/com/kitaab/kitaab/repository/kitaabRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/com/kitaab/kitaab/service/kitaabservice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/com/kitaab/kitaab/service/kitaabserviceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitaab/target/test-classes/com/kitaab/kitaab/KitaabApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.KitaabApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/HP/Downloads/kitaab"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.KitaabApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Downloads/kitaab&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
