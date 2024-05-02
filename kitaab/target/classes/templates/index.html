@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>kitaab list</title>
+
+
+</head>
+<body>
+<div align="center">
+      <h1>book list</h1>
+      <table>
+           <thead>
+                <tr>
+                    <th>book name</th>
+                    <th>author name</th>
+                    <th>price</th>
+                    <th>quantity</th>
+                </tr>
+           </thead>
+           <tbody>
+                <tr th:each="kitaab : ${listBooks"}>
+                    <td th:text="${kitaab.name}"></td>
+					<td th:text="${kitaab.author}"></td>
+					<td th:text="${kitaab.price}"></td>
+					<td th:text="${kitaab.quantity}"></td>
+           
+           </tbody>
+
+      </table>
+</div>
+</body>
+</html>
